@@ -1,0 +1,53 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# =====================
+# Pytest
+# =====================
+.pytest_cache/
+.cache/
+test-results/
+coverage.xml
+htmlcov/
+
+# =====================
+# Allure Reports
+# =====================
+allure-results/
+allure-report/
+tests/reports/allure/
+reports/allure/
+
+# =====================
+# IDE
+# =====================
+.idea/
+.vscode/
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# OS
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Env file
+# =====================
+.env
