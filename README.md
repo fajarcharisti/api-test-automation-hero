@@ -35,3 +35,5 @@ The QA automation workflow in this project follows these steps:
 ### 3. Serve Allure Report
 `allure serve tests/reports/allure`
 
+## 🎬 Sample Execution
+<img width="1920" height="1032" alt="api_automation_demo" src="https://github.com/user-attachments/assets/e320481b-3430-4e87-b091-9e64215ad263" />
